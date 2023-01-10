@@ -178,20 +178,6 @@ input {font-family: 'Poppins', sans-serif;}
     outline: 0;
     fill: white;
 }
-
-
- /*-------------- Responsive Menu --------------*/
- .menu{
-    display: none;
-}
-
-.menu div{
-    width: 25px;
-    height: 1px;
-    background-color: white;
-    margin: 7px;
-    transition: all 0.3s ease;
-}
 /* -------------------------- Header Ending ---------------------------- */
 
 
